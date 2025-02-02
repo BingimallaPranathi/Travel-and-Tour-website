@@ -1,1 +1,2 @@
 # Travel-and-Tour-website
+A front-end website built using PHP, CSS, and JavaScript. This platform allows users to explore various travel destinations, view the services offered, and book tickets for their desired trips. The website provides an easy-to-navigate interface, making it convenient for users to find information about travel packages, services, and make bookings. This project showcases the use of front-end technologies for building a dynamic and user-friendly travel platform.
